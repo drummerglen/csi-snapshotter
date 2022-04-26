@@ -1,1 +1,1 @@
-FROM registry.k8s.io/sig-storage/csi-snapshotter:v5.0.1
+FROM registry.k8s.io/sig-storage/csi-snapshotter:v4.1.1
